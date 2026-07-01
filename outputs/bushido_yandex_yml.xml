@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-07-01 13:10">
+  <shop>
+    <name>Бусидо</name>
+    <company>Ресторан японской кухни «Бусидо»</company>
+    <url>https://bushido66.ru/</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Суши</category>
+      <category id="2">Гунканы</category>
+      <category id="3">Сашими</category>
+      <category id="4">Роллы</category>
+      <category id="5">Бизнес-ланчи в будни с 12:00 до 16:00</category>
+      <category id="6">Супы</category>
+      <category id="7">Поке</category>
+      <category id="8">Теплые роллы</category>
+      <category id="9">Запеченные роллы</category>
+      <category id="10">Сеты</category>
+      <category id="11">WOK конструктор</category>
+      <category id="12">Пиццы</category>
+      <category id="13">Закуски</category>
+      <category id="14">Салаты</category>
+      <category id="15">Горячие блюда</category>
+      <category id="16">Шашлычки</category>
+      <category id="17">Гарниры</category>
+      <category id="18">Соусы</category>
+      <category id="19">Десерты</category>
+      <category id="20">Напитки</category>
+    </categories>
+    <offers>
+      <offer id="513" available="true">
+        <name>Суши Магуро</name>
+        <url>https://bushido66.ru/catalog/sushi/513/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/64a/450_450_0/6tvxnem8kzyl1rjbx3nvat39qnkqi74r.jpg</picture>
+      </offer>
+      <offer id="492" available="true">
+        <name>Суши Сякэ</name>
+        <url>https://bushido66.ru/catalog/sushi/492/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a30/450_450_0/e1twag519h7fmii976fc13h6x40f2blr.jpg</picture>
+      </offer>
+      <offer id="487" available="true">
+        <name>Суши Сякэ кунсей</name>
+        <url>https://bushido66.ru/catalog/sushi/487/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/306/450_450_0/76il4hl84xjeco62eso4pyz7jrh9nj1g.jpg</picture>
+      </offer>
+      <offer id="488" available="true">
+        <name>Суши Унаги</name>
+        <url>https://bushido66.ru/catalog/sushi/488/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bushido66.ru/upload/iblock/e17/kucy2lwten1qbgsb89hkzu6eiwcrnqqa.jpg</picture>
+      </offer>
+      <offer id="500" available="true">
+        <name>Суши Хотатэ</name>
+        <url>https://bushido66.ru/catalog/sushi/500/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/204/450_450_0/3s0zyl4s42mcoz8137v2dmv4bnw5jhgr.jpg</picture>
+      </offer>
+      <offer id="511" available="true">
+        <name>Суши Эби</name>
+        <url>https://bushido66.ru/catalog/sushi/511/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d62/450_450_0/o4i8ffyu11ld7u3wlcqs33rhne91001e.jpg</picture>
+      </offer>
+      <offer id="486" available="true">
+        <name>Гункан Икура</name>
+        <url>https://bushido66.ru/catalog/gunkany/486/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/54f/450_450_0/z5p1m4zpitbm84997qwe682e4avxitew.jpg</picture>
+      </offer>
+      <offer id="3367" available="true">
+        <name>Гункан Кани Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3367/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3373" available="true">
+        <name>Гункан Кани Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3373/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="3362" available="true">
+        <name>Гункан Магуро Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3362/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3369" available="true">
+        <name>Гункан Магуро Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3369/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="3365" available="true">
+        <name>Гункан Мэндори Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3365/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3371" available="true">
+        <name>Гункан Мэндори Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3371/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="3361" available="true">
+        <name>Гункан Спайси Кани</name>
+        <url>https://bushido66.ru/catalog/gunkany/3361/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5a1/450_450_0/0zitu6imwzghgamzltgtjv7lf83bzd42.jpg</picture>
+      </offer>
+      <offer id="514" available="true">
+        <name>Гункан Спайси магуро</name>
+        <url>https://bushido66.ru/catalog/gunkany/514/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/515/450_450_0/k0d1xce0o7i30fpqaa075nqygyg2wvvd.jpg</picture>
+      </offer>
+      <offer id="493" available="true">
+        <name>Гункан Спайси сяке</name>
+        <url>https://bushido66.ru/catalog/gunkany/493/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/510/450_450_0/j666zekc0vy1ocuxu43ich050jmqnnqf.jpg</picture>
+      </offer>
+      <offer id="489" available="true">
+        <name>Гункан Спайси унаги</name>
+        <url>https://bushido66.ru/catalog/gunkany/489/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d5a/450_450_0/ursl0qwwe52ee2rhhx51qx2c9zznitlo.jpg</picture>
+      </offer>
+      <offer id="495" available="true">
+        <name>Гункан Спайси хотатэ</name>
+        <url>https://bushido66.ru/catalog/gunkany/495/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5c2/450_450_0/nw9z6ll11oqetwr0kedmxd60lq2j21bc.jpg</picture>
+      </offer>
+      <offer id="512" available="true">
+        <name>Гункан Спайси эби</name>
+        <url>https://bushido66.ru/catalog/gunkany/512/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/912/450_450_0/b66f8t1ujgu8t53tnpq7xy1hpebslp51.jpg</picture>
+      </offer>
+      <offer id="3364" available="true">
+        <name>Гункан Сяке Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3364/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3370" available="true">
+        <name>Гункан Сяке Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3370/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="485" available="true">
+        <name>Гункан Тобико</name>
+        <url>https://bushido66.ru/catalog/gunkany/485/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2c9/450_450_0/h8fzw9m9t5skcmho703kdi20jeonpi7i.jpg</picture>
+      </offer>
+      <offer id="3368" available="true">
+        <name>Гункан Томари Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3368/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3374" available="true">
+        <name>Гункан Томари Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3374/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="3363" available="true">
+        <name>Гункан Унаги Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3363/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3375" available="true">
+        <name>Гункан Унаги Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3375/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="3366" available="true">
+        <name>Гункан Эби Кюри</name>
+        <url>https://bushido66.ru/catalog/gunkany/3366/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ce8/450_450_0/beizztdo8zirg4qyq5f594smoqxgyrvi.jpg</picture>
+      </offer>
+      <offer id="3372" available="true">
+        <name>Гункан Эби Цукини</name>
+        <url>https://bushido66.ru/catalog/gunkany/3372/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/31c/450_450_0/ihkq0a55v492cgyr69wy5wui04lblw15.jpg</picture>
+      </offer>
+      <offer id="258" available="true">
+        <name>Изуми тай</name>
+        <url>https://bushido66.ru/catalog/sashimi/258/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/4ec/450_450_0/2u1sk004xddn6ziwwr49fp3s25fd7iim.jpg</picture>
+      </offer>
+      <offer id="248" available="true">
+        <name>Икура</name>
+        <url>https://bushido66.ru/catalog/sashimi/248/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bf8/450_450_0/jqz0783yo75flh6lg6zzrnj25oy0cmpe.jpg</picture>
+      </offer>
+      <offer id="286" available="true">
+        <name>Магуро</name>
+        <url>https://bushido66.ru/catalog/sashimi/286/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/261/450_450_0/wmq4w8tri4qv634jfvmt1buw7tvc0kov.jpg</picture>
+      </offer>
+      <offer id="255" available="true">
+        <name>Сяке</name>
+        <url>https://bushido66.ru/catalog/sashimi/255/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/7d1/450_450_0/c9mi4hi3votrgqvt0e4q7qnnvn1fa37e.jpg</picture>
+      </offer>
+      <offer id="265" available="true">
+        <name>Тако</name>
+        <url>https://bushido66.ru/catalog/sashimi/265/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d74/450_450_0/554b5x7qefr9gqyk08w64s3qmiktbdm8.jpg</picture>
+      </offer>
+      <offer id="252" available="true">
+        <name>Унаги</name>
+        <url>https://bushido66.ru/catalog/sashimi/252/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2bc/450_450_0/i8l2oznfb6z2j58hcmc72zaq9qhggwtr.jpg</picture>
+      </offer>
+      <offer id="257" available="true">
+        <name>Хотатэ</name>
+        <url>https://bushido66.ru/catalog/sashimi/257/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/502/450_450_0/uchyo4voemqytw83z1bmhsfi9ktj3azq.jpg</picture>
+      </offer>
+      <offer id="280" available="true">
+        <name>Эби</name>
+        <url>https://bushido66.ru/catalog/sashimi/280/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e45/450_450_0/rh0g53eml98z1smy6uq19xsgvncsqm00.jpg</picture>
+      </offer>
+      <offer id="295" available="true">
+        <name>Авокадо маки</name>
+        <url>https://bushido66.ru/catalog/rolly/295/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d6d/450_450_0/yt3edl9lmiih44r7yjs472g6krepse66.jpg</picture>
+      </offer>
+      <offer id="317" available="true">
+        <name>Аляска</name>
+        <url>https://bushido66.ru/catalog/rolly/317/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/672/450_450_0/rpzq4dgomyfvx1a48y15u30h3jmle51o.jpg</picture>
+      </offer>
+      <offer id="347" available="true">
+        <name>Бекон маки</name>
+        <url>https://bushido66.ru/catalog/rolly/347/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/af7/450_450_0/rmks5fajlshrh5yije1ohpeecjq1zxba.jpg</picture>
+      </offer>
+      <offer id="298" available="true">
+        <name>Икура маки</name>
+        <url>https://bushido66.ru/catalog/rolly/298/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/77a/450_450_0/nc6z8c1u7ppqxhj6ql6xnkw5mllsm3ez.jpg</picture>
+      </offer>
+      <offer id="305" available="true">
+        <name>Кайсо маки</name>
+        <url>https://bushido66.ru/catalog/rolly/305/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c9f/450_450_0/xw6dahmr261shfbogvc63l9x9yd7bq35.jpg</picture>
+      </offer>
+      <offer id="324" available="true">
+        <name>Кайсо с овощами</name>
+        <url>https://bushido66.ru/catalog/rolly/324/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/06a/450_450_0/8xw3s3x1oy7fvw0lm3hwhed35hl1er14.jpg</picture>
+      </offer>
+      <offer id="310" available="true">
+        <name>Камикадзе</name>
+        <url>https://bushido66.ru/catalog/rolly/310/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2a4/450_450_0/pp1gfvdagjp1d5m15y26jwfsk145hhvh.jpg</picture>
+      </offer>
+      <offer id="306" available="true">
+        <name>Канада маки</name>
+        <url>https://bushido66.ru/catalog/rolly/306/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/aa1/450_450_0/2a7xxpbuehutbijaiiif7on1z9mgrhcf.jpg</picture>
+      </offer>
+      <offer id="323" available="true">
+        <name>Каппа маки</name>
+        <url>https://bushido66.ru/catalog/rolly/323/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c6b/450_450_0/p35af30e817kd68x767xqrpm0l03t0jz.jpg</picture>
+      </offer>
+      <offer id="534" available="true">
+        <name>Лава ролл</name>
+        <url>https://bushido66.ru/catalog/rolly/534/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fa2/450_450_0/49bu2w1w62hfkx3jkaksxi93c2bvmbob.jpg</picture>
+      </offer>
+      <offer id="348" available="true">
+        <name>Овощная тортилья</name>
+        <url>https://bushido66.ru/catalog/rolly/348/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f36/450_450_0/qj8ze480co5dsk1c3bnrw6vbsl9kyh0s.jpg</picture>
+      </offer>
+      <offer id="360" available="true">
+        <name>Сафари маки</name>
+        <url>https://bushido66.ru/catalog/rolly/360/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/aac/450_450_0/rhwqi7n4jql0hx6n620a0463gvao5abr.jpg</picture>
+      </offer>
+      <offer id="376" available="true">
+        <name>Сяке гурме</name>
+        <url>https://bushido66.ru/catalog/rolly/376/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3d6/450_450_0/jem7em7de60afi6nzskt08y03ucp93zh.jpg</picture>
+      </offer>
+      <offer id="316" available="true">
+        <name>Сяке маки</name>
+        <url>https://bushido66.ru/catalog/rolly/316/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/430/450_450_0/b78swnhrhasxr5dwaxtrnk90qbvhzzzj.jpg</picture>
+      </offer>
+      <offer id="375" available="true">
+        <name>Тортилья с копченым лососем</name>
+        <url>https://bushido66.ru/catalog/rolly/375/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d71/450_450_0/t4rzb25fln28xf3k0ity1amyr495za5v.jpg</picture>
+      </offer>
+      <offer id="369" available="true">
+        <name>Тортилья с креветкой</name>
+        <url>https://bushido66.ru/catalog/rolly/369/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/45b/450_450_0/jwnaz2wngzsg91u09hm7hy15st314n4c.jpg</picture>
+      </offer>
+      <offer id="355" available="true">
+        <name>Тортилья с угрем</name>
+        <url>https://bushido66.ru/catalog/rolly/355/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/151/450_450_0/fzawgmettihdj7hj0s6f9rgzua14s3a0.jpg</picture>
+      </offer>
+      <offer id="330" available="true">
+        <name>Туно маки</name>
+        <url>https://bushido66.ru/catalog/rolly/330/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5e9/450_450_0/0uf9b46jm8i4kd1ea8bzcgfyp5jp8lun.jpg</picture>
+      </offer>
+      <offer id="388" available="true">
+        <name>Филадельфия лайт</name>
+        <url>https://bushido66.ru/catalog/rolly/388/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/iblock/ac8/uhmysp2q0cpp07cr8s7gsar8rbf1j0ur.jpg</picture>
+      </offer>
+      <offer id="383" available="true">
+        <name>Филадельфия лайт с авокадо</name>
+        <url>https://bushido66.ru/catalog/rolly/383/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/7aa/450_450_0/09g2732kehsw4j1f9nolptdyl8yfzf5f.jpg</picture>
+      </offer>
+      <offer id="361" available="true">
+        <name>Филадельфия с авокадо</name>
+        <url>https://bushido66.ru/catalog/rolly/361/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bc8/450_450_0/wtsfznt3t4zmre21xicr34v6fdbfjbbq.jpg</picture>
+      </offer>
+      <offer id="384" available="true">
+        <name>Филадельфия с апельсином</name>
+        <url>https://bushido66.ru/catalog/rolly/384/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/7b5/450_450_0/yqc0idan07fa5ewd71l9kx1mo4jcjb7d.jpg</picture>
+      </offer>
+      <offer id="362" available="true">
+        <name>Филадельфия с зеленым луком</name>
+        <url>https://bushido66.ru/catalog/rolly/362/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b2a/450_450_0/n97yrqtgsi4dn5eb4o71ccrtx3f9l17q.jpg</picture>
+      </offer>
+      <offer id="358" available="true">
+        <name>Филадельфия с копченым лососем</name>
+        <url>https://bushido66.ru/catalog/rolly/358/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/8f4/450_450_0/vpimw1dp0ye7sqwddph23el7cq1q3qxo.jpg</picture>
+      </offer>
+      <offer id="363" available="true">
+        <name>Филадельфия с красной икрой</name>
+        <url>https://bushido66.ru/catalog/rolly/363/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d70/450_450_0/2ocbncrjgnumjbk3blnd1e4ro6jym3r3.jpg</picture>
+      </offer>
+      <offer id="390" available="true">
+        <name>Филадельфия с креветкой</name>
+        <url>https://bushido66.ru/catalog/rolly/390/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ceb/450_450_0/0mmn3zte6v3cavrvrzbwa8qe9palwcyk.jpg</picture>
+      </offer>
+      <offer id="364" available="true">
+        <name>Филадельфия с огурцом</name>
+        <url>https://bushido66.ru/catalog/rolly/364/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/62c/450_450_0/72m3oe6rk0zm7ymmx8d767616ex8rhfb.jpg</picture>
+      </offer>
+      <offer id="536" available="true">
+        <name>Эби Васаби ролл</name>
+        <url>https://bushido66.ru/catalog/rolly/536/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/49b/450_450_0/0qkjlb7ogw7pop0795c5i5rm9oc0vxif.jpg</picture>
+      </offer>
+      <offer id="319" available="true">
+        <name>Эби авокадо маки</name>
+        <url>https://bushido66.ru/catalog/rolly/319/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e0c/450_450_0/3du595gaeaag2zb3fz1y39z7npupaeqn.jpg</picture>
+      </offer>
+      <offer id="391" available="true">
+        <name>Эби ниру</name>
+        <url>https://bushido66.ru/catalog/rolly/391/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a73/450_450_0/mz8qzohyx79pggknr71yvrtxrvnnjrte.jpg</picture>
+      </offer>
+      <offer id="521" available="true">
+        <name>Бенто Амаи</name>
+        <url>https://bushido66.ru/catalog/biznes_lanchi_s_11_00_do_16_00/521/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f08/450_450_0/2mq0uel8bmo29eccjt2sy3git3tb4gdg.jpg</picture>
+      </offer>
+      <offer id="520" available="true">
+        <name>Бенто Кантани</name>
+        <url>https://bushido66.ru/catalog/biznes_lanchi_s_11_00_do_16_00/520/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/470/450_450_0/09sulr08q45xalb4lkl3wll5yoxg325z.jpg</picture>
+      </offer>
+      <offer id="519" available="true">
+        <name>Бенто Ойши</name>
+        <url>https://bushido66.ru/catalog/biznes_lanchi_s_11_00_do_16_00/519/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a0e/450_450_0/prked96d5on8f9yl9o3cpkk7mgclii59.jpg</picture>
+      </offer>
+      <offer id="533" available="true">
+        <name>Бенто Ясай</name>
+        <url>https://bushido66.ru/catalog/biznes_lanchi_s_11_00_do_16_00/533/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/09f/450_450_0/q4z73rnpquw52sz2v9w2ucnlsdoa6llf.jpg</picture>
+      </offer>
+      <offer id="589" available="true">
+        <name>Картофельный крем-суп с куриной грудкой</name>
+        <url>https://bushido66.ru/catalog/supy/589/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c0d/450_450_0/m4y8zt2u32t4inasxkfoicto31zii494.jpg</picture>
+      </offer>
+      <offer id="586" available="true">
+        <name>Киноко сирой</name>
+        <url>https://bushido66.ru/catalog/supy/586/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/68b/450_450_0/tq0ogdyi0ymrummhtax6w0y0qvotowlu.jpg</picture>
+      </offer>
+      <offer id="590" available="true">
+        <name>Куриный суп с лапшой</name>
+        <url>https://bushido66.ru/catalog/supy/590/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/321/450_450_0/mcl3f58uwmapnqz2iqys2qtedn58pogm.jpg</picture>
+      </offer>
+      <offer id="588" available="true">
+        <name>Набэ удон</name>
+        <url>https://bushido66.ru/catalog/supy/588/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/75a/450_450_0/3hwg5tzue1nn219nv8ddsfg7jc5jeshc.jpg</picture>
+      </offer>
+      <offer id="591" available="true">
+        <name>Нику рамен</name>
+        <url>https://bushido66.ru/catalog/supy/591/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2ae/450_450_0/cqcwhzsz4c9xiq2jx0zo325ce9k3d05n.jpg</picture>
+      </offer>
+      <offer id="22906" available="true">
+        <name>Окрошка на квасе</name>
+        <url>https://bushido66.ru/catalog/supy/22906/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/93b/450_450_0/tlgeuhbpwf9h1runckv22vtv5ze76167.jpg</picture>
+      </offer>
+      <offer id="22905" available="true">
+        <name>Окрошка с мацони</name>
+        <url>https://bushido66.ru/catalog/supy/22905/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/bitrix/templates/food_s1/images/picture.missing.png</picture>
+      </offer>
+      <offer id="22904" available="true">
+        <name>Суп Фобо</name>
+        <url>https://bushido66.ru/catalog/supy/22904/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ca3/450_450_0/wm03j0ffb5n05y3z1n6dekslo1js110g.jpg</picture>
+      </offer>
+      <offer id="537" available="true">
+        <name>Том Ям с креветками</name>
+        <url>https://bushido66.ru/catalog/supy/537/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f3d/450_450_0/3t6dd8tdz8d2ej8xz5h460pfzthgyu1v.jpg</picture>
+      </offer>
+      <offer id="535" available="true">
+        <name>Том Ям с морепродуктами</name>
+        <url>https://bushido66.ru/catalog/supy/535/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f3d/450_450_0/3t6dd8tdz8d2ej8xz5h460pfzthgyu1v.jpg</picture>
+      </offer>
+      <offer id="541" available="true">
+        <name>Том ям с курицей</name>
+        <url>https://bushido66.ru/catalog/supy/541/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f3d/450_450_0/3t6dd8tdz8d2ej8xz5h460pfzthgyu1v.jpg</picture>
+      </offer>
+      <offer id="525" available="true">
+        <name>Уха по-фински</name>
+        <url>https://bushido66.ru/catalog/supy/525/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/92f/450_450_0/8luieiy4zgvxrq1hvjoiufsixtdq9nqr.jpg</picture>
+      </offer>
+      <offer id="575" available="true">
+        <name>Вегетарианский поке</name>
+        <url>https://bushido66.ru/catalog/poke/575/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/305/450_450_0/v0donvvbw9uxjn0o4idapgfut6izjhwc.jpg</picture>
+      </offer>
+      <offer id="574" available="true">
+        <name>Поке с креветками</name>
+        <url>https://bushido66.ru/catalog/poke/574/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d70/450_450_0/sldpdv4y690igvny4bxpokxrpda7amrw.jpg</picture>
+      </offer>
+      <offer id="573" available="true">
+        <name>Поке с лососем</name>
+        <url>https://bushido66.ru/catalog/poke/573/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/64b/450_450_0/lcj3xm6b8w5nx4tnza335lx783i4r4fc.jpg</picture>
+      </offer>
+      <offer id="572" available="true">
+        <name>Поке с тунцом</name>
+        <url>https://bushido66.ru/catalog/poke/572/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d6b/450_450_0/2ot0xy9u746i75ow1sjytk88z6wglw6c.jpg</picture>
+      </offer>
+      <offer id="571" available="true">
+        <name>Поке с угрем</name>
+        <url>https://bushido66.ru/catalog/poke/571/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/377/450_450_0/60siyg9q5d5wgslazjwbxnazpad42ba1.jpg</picture>
+      </offer>
+      <offer id="346" available="true">
+        <name>Айген маки</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/346/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f44/450_450_0/mss5j459l74hhnpk1nqkiswd8ocvhsh8.jpg</picture>
+      </offer>
+      <offer id="354" available="true">
+        <name>Америка</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/354/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/8c0/450_450_0/ezmnkjqzr3dtpypau9lj2v74a9calg7h.jpg</picture>
+      </offer>
+      <offer id="3379" available="true">
+        <name>Антирис</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/3379/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/1fe/450_450_0/ncne52jmptcqxt46h0tj27rzsy4sobah.jpg</picture>
+      </offer>
+      <offer id="380" available="true">
+        <name>Империя</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/380/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fb1/450_450_0/q7jl4durbaprblhbi9jpuyhd657xulfz.jpg</picture>
+      </offer>
+      <offer id="523" available="true">
+        <name>Кани Темпура</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/523/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/460/450_450_0/yujgsg1yliebgq2tqmf4lfhw12n8z3ga.jpg</picture>
+      </offer>
+      <offer id="356" available="true">
+        <name>Кани фурай маки</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/356/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3a4/450_450_0/rz0gnispwdrsig2yaxtbq9nt00fac5bl.jpg</picture>
+      </offer>
+      <offer id="368" available="true">
+        <name>Кизу ролл</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/368/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a90/450_450_0/7q0r506dcb8a5yka4puc94x2zg36ddpi.jpg</picture>
+      </offer>
+      <offer id="351" available="true">
+        <name>Майами</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/351/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d85/450_450_0/k36ta0kmqid6l4ae2lacl1gtjgww7nhi.jpg</picture>
+      </offer>
+      <offer id="372" available="true">
+        <name>Меркурий</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/372/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c34/450_450_0/awq4pk6um3eu5uu57o2awgf8n5rw8106.jpg</picture>
+      </offer>
+      <offer id="3381" available="true">
+        <name>Оранжевый Микс</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/3381/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/18f/450_450_0/z8uv8qy8ooqr8gg2ro9bx6nge22wlgia.jpg</picture>
+      </offer>
+      <offer id="370" available="true">
+        <name>Осака</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/370/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/0a1/450_450_0/565jrcyfdxf1238q7wxtrmxsoc1omlth.jpg</picture>
+      </offer>
+      <offer id="3380" available="true">
+        <name>Сяке темпура краб</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/3380/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ad4/450_450_0/xhl66tryu2z92j7xu6dkdkpzkqt0onxv.jpg</picture>
+      </offer>
+      <offer id="353" available="true">
+        <name>Тайский</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/353/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3b0/450_450_0/r9f3cdx5glabl8ifm2z2vx368hs3c5f0.jpg</picture>
+      </offer>
+      <offer id="366" available="true">
+        <name>Теплая Филадельфия</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/366/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/42c/450_450_0/fjcjyvyb1pqyd925smrq65tawt61m5d6.jpg</picture>
+      </offer>
+      <offer id="3378" available="true">
+        <name>Теплый ролл</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/3378/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/7a6/450_450_0/5smnpjoryku1ru2yhkp587d573faobo3.jpg</picture>
+      </offer>
+      <offer id="367" available="true">
+        <name>Техас</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/367/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3e9/450_450_0/qnot7mcpyktimtri2kjnxo1i2gun4r7f.jpg</picture>
+      </offer>
+      <offer id="374" available="true">
+        <name>Тори темпура</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/374/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/1bc/450_450_0/4xw2w5d6ucxv6h50iyu41l4fgq45k5mb.jpg</picture>
+      </offer>
+      <offer id="302" available="true">
+        <name>Цезарь темпура</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/302/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c76/450_450_0/h1zbta2ypp1f06grxzi61693gd1151j0.jpg</picture>
+      </offer>
+      <offer id="524" available="true">
+        <name>Чикен темпура</name>
+        <url>https://bushido66.ru/catalog/teplye_rolly/524/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/08d/450_450_0/m439fsk5hanj21ynucryo98g0yzwii6h.jpg</picture>
+      </offer>
+      <offer id="340" available="true">
+        <name>Акиро ролл</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/340/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/98e/450_450_0/uvaxqj701zoh199ru928kow537entry8.jpg</picture>
+      </offer>
+      <offer id="389" available="true">
+        <name>Запеченная Филадельфия</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/389/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a6b/450_450_0/s0ohl089qge14eg5t4mpkyuqpst9bw2s.jpg</picture>
+      </offer>
+      <offer id="343" available="true">
+        <name>Запеченный Бусидо</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/343/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/64b/450_450_0/h120dm3sqswu37j2pzewrubnsb7xhkhu.jpg</picture>
+      </offer>
+      <offer id="331" available="true">
+        <name>Запеченный с беконом</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/331/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/eaa/450_450_0/phihax0hum9r5gpg82sha07tpc05ry93.jpg</picture>
+      </offer>
+      <offer id="338" available="true">
+        <name>Запеченный с копченым лососем</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/338/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/98e/450_450_0/uvaxqj701zoh199ru928kow537entry8.jpg</picture>
+      </offer>
+      <offer id="345" available="true">
+        <name>Запеченный с креветкой</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/345/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/102/450_450_0/wd4fczkp0fr491xw7pfl01qu2t63tsbd.jpg</picture>
+      </offer>
+      <offer id="336" available="true">
+        <name>Запеченный с курицей</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/336/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/102/450_450_0/wd4fczkp0fr491xw7pfl01qu2t63tsbd.jpg</picture>
+      </offer>
+      <offer id="341" available="true">
+        <name>Запеченный с лососем</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/341/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/102/450_450_0/wd4fczkp0fr491xw7pfl01qu2t63tsbd.jpg</picture>
+      </offer>
+      <offer id="3377" available="true">
+        <name>Запеченный с судаком</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/3377/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/89e/450_450_0/26ixfz3ab953pfb0ay316vyx9gwrj060.jpg</picture>
+      </offer>
+      <offer id="329" available="true">
+        <name>Киото</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/329/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/1c5/450_450_0/v8586yx8qo0n56x4etv6o2t1kvxruwnd.jpg</picture>
+      </offer>
+      <offer id="335" available="true">
+        <name>Токио</name>
+        <url>https://bushido66.ru/catalog/zapechennye_rolly/335/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/eaa/450_450_0/phihax0hum9r5gpg82sha07tpc05ry93.jpg</picture>
+      </offer>
+      <offer id="443" available="true">
+        <name>Бабочка сет</name>
+        <url>https://bushido66.ru/catalog/sety/443/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/0c8/450_450_0/lx99nk9s1n7qq3pih55s4fmz061lxlu4.jpg</picture>
+      </offer>
+      <offer id="507" available="true">
+        <name>Бусидо</name>
+        <url>https://bushido66.ru/catalog/sety/507/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bf4/450_450_0/tz3hoeu7w4s334feq2e00u2h6fyifqbn.jpg</picture>
+      </offer>
+      <offer id="505" available="true">
+        <name>Демократичный</name>
+        <url>https://bushido66.ru/catalog/sety/505/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fba/450_450_0/uu1xvt4s75x4pzw6qei3xzeambi4ksar.jpg</picture>
+      </offer>
+      <offer id="504" available="true">
+        <name>Для двоих</name>
+        <url>https://bushido66.ru/catalog/sety/504/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f27/450_450_0/xwqrkzt2g7qy52jrdnh4nhbbvv92z67f.jpg</picture>
+      </offer>
+      <offer id="539" available="true">
+        <name>Мураками</name>
+        <url>https://bushido66.ru/catalog/sety/539/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/752/450_450_0/970ykzwr5scqpdfkadrlub5djjg11ou4.jpeg</picture>
+      </offer>
+      <offer id="490" available="true">
+        <name>Сашими сет</name>
+        <url>https://bushido66.ru/catalog/sety/490/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/96c/450_450_0/tln6ocn898n3dlb7skgltdg5fj42768z.jpg</picture>
+      </offer>
+      <offer id="517" available="true">
+        <name>Сет Love</name>
+        <url>https://bushido66.ru/catalog/sety/517/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c82/450_450_0/bgnaiwh9a08i0q2cgl5w20jisufmzf6w.jpg</picture>
+      </offer>
+      <offer id="530" available="true">
+        <name>Сет Spring</name>
+        <url>https://bushido66.ru/catalog/sety/530/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3a2/450_450_0/lda44y85utaterl1jouon3127do8b8i9.jpg</picture>
+      </offer>
+      <offer id="532" available="true">
+        <name>Сет Жемчуг</name>
+        <url>https://bushido66.ru/catalog/sety/532/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fc8/450_450_0/w76ojsslekw5v1xvyiwwwq5f0vizw98t.jpg</picture>
+      </offer>
+      <offer id="508" available="true">
+        <name>Сет Запеченный</name>
+        <url>https://bushido66.ru/catalog/sety/508/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bd0/450_450_0/xlr5g1qox9p20w2ggjm3shxspbooeco3.png</picture>
+      </offer>
+      <offer id="531" available="true">
+        <name>Сет Лайт</name>
+        <url>https://bushido66.ru/catalog/sety/531/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/098/450_450_0/irdr7gtr9fsx24z0932vnnj4m8sk97df.jpg</picture>
+      </offer>
+      <offer id="529" available="true">
+        <name>Сет Лотос</name>
+        <url>https://bushido66.ru/catalog/sety/529/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/9b5/450_450_0/gqrag9s74bmg10jcy10sg5icv26cr7zj.jpeg</picture>
+      </offer>
+      <offer id="528" available="true">
+        <name>Сет Цветы</name>
+        <url>https://bushido66.ru/catalog/sety/528/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/4b6/450_450_0/iptmpeby0c9b27utxly5bijsgt48v0l9.jpg</picture>
+      </offer>
+      <offer id="503" available="true">
+        <name>Сумо</name>
+        <url>https://bushido66.ru/catalog/sety/503/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/48d/450_450_0/t2zlwqh1y1ideokuclofxent1d13xva3.jpg</picture>
+      </offer>
+      <offer id="509" available="true">
+        <name>Суши - сет</name>
+        <url>https://bushido66.ru/catalog/sety/509/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5f0/450_450_0/rbemieq2m5hig8kxsnz4k8mcyzbaz1lh.jpg</picture>
+      </offer>
+      <offer id="501" available="true">
+        <name>Татеро</name>
+        <url>https://bushido66.ru/catalog/sety/501/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/170/450_450_0/pbqh7lcn3sgdosmxtql23j8ekfmfnp96.jpg</picture>
+      </offer>
+      <offer id="506" available="true">
+        <name>Филадельфия</name>
+        <url>https://bushido66.ru/catalog/sety/506/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/eeb/450_450_0/kjksxlvrim3syp36kz2wx18btcglr2gl.jpg</picture>
+      </offer>
+      <offer id="442" available="true">
+        <name>Филадельфия лайт сет</name>
+        <url>https://bushido66.ru/catalog/sety/442/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b4f/450_450_0/t6fiuaur3men4owcmakznvvhmlpezkc6.jpg</picture>
+      </offer>
+      <offer id="540" available="true">
+        <name>Фудзи</name>
+        <url>https://bushido66.ru/catalog/sety/540/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2ff/450_450_0/4ycnciur9dist5dw6ck9qikf5mx2fies.jpeg</picture>
+      </offer>
+      <offer id="502" available="true">
+        <name>Харакири</name>
+        <url>https://bushido66.ru/catalog/sety/502/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/774/450_450_0/1w80rqchp6q8oruf9op8zxeyn9oh8dhg.jpg</picture>
+      </offer>
+      <offer id="510" available="true">
+        <name>Хатешинай</name>
+        <url>https://bushido66.ru/catalog/sety/510/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c19/450_450_0/jm3u874e0xh05um2vjuzrfdipunp4grg.jpg</picture>
+      </offer>
+      <offer id="441" available="true">
+        <name>Энкай сет</name>
+        <url>https://bushido66.ru/catalog/sety/441/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>10</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/eca/450_450_0/ahfrkis35hy2vvh25lbk78gglzkflgww.jpg</picture>
+      </offer>
+      <offer id="413" available="true">
+        <name>Доп ингредиент Говядина</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/413/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d9e/450_450_0/c4ytig3uxu7k2khf5bwq7s1ie899rpcl.jpg</picture>
+      </offer>
+      <offer id="406" available="true">
+        <name>Доп ингредиент Грибы шиитаке</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/406/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/582/450_450_0/ydzswcy063cc2q5i0bbzig8vwnvm54hb.jpg</picture>
+      </offer>
+      <offer id="417" available="true">
+        <name>Доп ингредиент Лосось</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/417/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/766/450_450_0/qxi5q9iccqu1vzsb1zvv8hxyiv1w6onk.jpg</picture>
+      </offer>
+      <offer id="415" available="true">
+        <name>Доп ингредиент Морской коктейль</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/415/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/4b3/450_450_0/7cpr3cj9hk2syfn0rxvr9gcwjtguva0v.jpg</picture>
+      </offer>
+      <offer id="416" available="true">
+        <name>Доп ингредиент Свинина</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/416/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3c2/450_450_0/zvg15jrifu0i6m26iixslz0j6lzo7dcp.jpg</picture>
+      </offer>
+      <offer id="407" available="true">
+        <name>Доп ингредиент Черные древесные грибы</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/407/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/8e0/450_450_0/n7eeh5tfzer1px6rrd0m7tu7get40pa5.jpg</picture>
+      </offer>
+      <offer id="464" available="true">
+        <name>Доп ингредиент цукини,баклажаны</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/464/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bc9/450_450_0/h051cpdvlucs1kpzjl4m9y18yzn9ecva.jpg</picture>
+      </offer>
+      <offer id="414" available="true">
+        <name>Доп. ингредиент Курица</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/414/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/8a2/450_450_0/olke0klekhrjsdlct0rvm14a8uoikeot.jpg</picture>
+      </offer>
+      <offer id="424" available="true">
+        <name>Основа Гречневая лапша</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/424/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2bf/450_450_0/hp25tdrh4xatnylnexmtbm1qde3min07.jpg</picture>
+      </offer>
+      <offer id="439" available="true">
+        <name>Основа Пшеничная лапша</name>
+        <url>https://bushido66.ru/catalog/wok_konstruktor/439/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>11</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/0d1/450_450_0/d4ob2a2ymac133dse9gxi5q1ptj12scr.jpg</picture>
+      </offer>
+      <offer id="422" available="true">
+        <name>Американа</name>
+        <url>https://bushido66.ru/catalog/pizza/422/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e88/450_450_0/xdsumy5fgml1sf69liyyb2h3j1fangd1.jpg</picture>
+      </offer>
+      <offer id="463" available="true">
+        <name>Капричиоза</name>
+        <url>https://bushido66.ru/catalog/pizza/463/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/cf3/450_450_0/js3oh477mx3j3zvq6nrdu24cgh9wz3w4.jpg</picture>
+      </offer>
+      <offer id="434" available="true">
+        <name>Лючия</name>
+        <url>https://bushido66.ru/catalog/pizza/434/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/27a/450_450_0/oo8osqhe2yhpqh5gvw67x2fg10uv93xp.jpg</picture>
+      </offer>
+      <offer id="455" available="true">
+        <name>Маргарита</name>
+        <url>https://bushido66.ru/catalog/pizza/455/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f8e/450_450_0/mw9ltr8qcwr5bwhqcgy5nymbb7tz7xur.jpg</picture>
+      </offer>
+      <offer id="428" available="true">
+        <name>Пепперони</name>
+        <url>https://bushido66.ru/catalog/pizza/428/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/007/450_450_0/ylnylbajrwd01p7d93lzwd0o7kjwqy5o.jpg</picture>
+      </offer>
+      <offer id="457" available="true">
+        <name>Рокфор</name>
+        <url>https://bushido66.ru/catalog/pizza/457/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5db/450_450_0/k84hxmri951hlcthgiokxzyweaz7dj69.jpg</picture>
+      </offer>
+      <offer id="3401" available="true">
+        <name>Сливочная карбонара</name>
+        <url>https://bushido66.ru/catalog/pizza/3401/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3bc/450_450_0/vhtonnp0nhb8an6fog9nyn3zyioeyqtp.jpg</picture>
+      </offer>
+      <offer id="26867" available="true">
+        <name>Ультра Комбо</name>
+        <url>https://bushido66.ru/catalog/pizza/26867/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/54b/450_450_0/v8s2xd4elpuryvsabuyl4dd7qj8z6e5g.jpg</picture>
+      </offer>
+      <offer id="420" available="true">
+        <name>Флоренция</name>
+        <url>https://bushido66.ru/catalog/pizza/420/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c3a/450_450_0/zidnt6rwu0fsk4rle30s6hjxtktq0e6v.jpg</picture>
+      </offer>
+      <offer id="3402" available="true">
+        <name>Цыпленок Барбекю</name>
+        <url>https://bushido66.ru/catalog/pizza/3402/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>12</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/604/450_450_0/ghubjzmue4dzdd11fj0u0wm0ndhn2zwm.jpg</picture>
+      </offer>
+      <offer id="404" available="true">
+        <name>Ассорти мясное</name>
+        <url>https://bushido66.ru/catalog/zakuski/404/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5ac/450_450_0/lqf51l3qs3iafan8i31ugaph9uzutur3.jpg</picture>
+      </offer>
+      <offer id="436" available="true">
+        <name>Ассорти сырное</name>
+        <url>https://bushido66.ru/catalog/zakuski/436/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5f5/450_450_0/xs0y7dhpa1dgdb2s316deu64ndngqv94.jpg</picture>
+      </offer>
+      <offer id="3384" available="true">
+        <name>Гамбургер с картофелем фри</name>
+        <url>https://bushido66.ru/catalog/zakuski/3384/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/de9/450_450_0/emakx8bzit34xdb2mdhzfa9qujy90oem.jpeg</picture>
+      </offer>
+      <offer id="239" available="true">
+        <name>Гедза с креветками</name>
+        <url>https://bushido66.ru/catalog/zakuski/239/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/4dd/450_450_0/nr4imk76ca8e6vnykex54ohr0lclr15r.jpg</picture>
+      </offer>
+      <offer id="240" available="true">
+        <name>Гедза с лососем</name>
+        <url>https://bushido66.ru/catalog/zakuski/240/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/af2/450_450_0/tn5hlhaqtca5fbw54qoodwi5914proxh.jpg</picture>
+      </offer>
+      <offer id="241" available="true">
+        <name>Гедза со свининой</name>
+        <url>https://bushido66.ru/catalog/zakuski/241/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/895/450_450_0/2aklxpnbtr6ez9ylc10ubkg5z4td8kyt.jpg</picture>
+      </offer>
+      <offer id="234" available="true">
+        <name>Гютан ясай яки</name>
+        <url>https://bushido66.ru/catalog/zakuski/234/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/71f/450_450_0/5rb0pc57qsng1a81u24oywwzda73c0hz.jpg</picture>
+      </offer>
+      <offer id="3386" available="true">
+        <name>Кесадилья с курицей</name>
+        <url>https://bushido66.ru/catalog/zakuski/3386/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/835/450_450_0/ejbebdz8mj2sozhetce6q4boy6t6d97j.jpg</picture>
+      </offer>
+      <offer id="429" available="true">
+        <name>Клаб-сэндвич с курицей</name>
+        <url>https://bushido66.ru/catalog/zakuski/429/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/192/450_450_0/do0yzk7raogh4hkko6uyjwk9vqngtns1.jpg</picture>
+      </offer>
+      <offer id="3383" available="true">
+        <name>Кольца кальмара</name>
+        <url>https://bushido66.ru/catalog/zakuski/3383/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/94d/450_450_0/vdp3530k2xd1euxhmok46c81xjj0bkt2.jpg</picture>
+      </offer>
+      <offer id="538" available="true">
+        <name>Креветки Васаби</name>
+        <url>https://bushido66.ru/catalog/zakuski/538/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/247/450_450_0/nrjlbjur3noo0bnvy5prdlo1acuaz491.jpg</picture>
+      </offer>
+      <offer id="399" available="true">
+        <name>Кутаб с говяжьим фаршем</name>
+        <url>https://bushido66.ru/catalog/zakuski/399/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3fa/450_450_0/29cawxc95d45icxknwv59hq93l1c6gnl.jpg</picture>
+      </offer>
+      <offer id="400" available="true">
+        <name>Кутаб с зеленью</name>
+        <url>https://bushido66.ru/catalog/zakuski/400/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/03c/450_450_0/o8wkmu251e3zjevtbrab0vck7hfv2t2f.jpg</picture>
+      </offer>
+      <offer id="401" available="true">
+        <name>Кутаб с сыром</name>
+        <url>https://bushido66.ru/catalog/zakuski/401/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/6df/450_450_0/cexvvp311q7utnq84pubdf1t83s72f1w.jpg</picture>
+      </offer>
+      <offer id="224" available="true">
+        <name>Луковые кольца в пивной панировке</name>
+        <url>https://bushido66.ru/catalog/zakuski/224/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/adb/450_450_0/rwr7qmeae12c7f913z9h6wgcb1kjmkds.jpg</picture>
+      </offer>
+      <offer id="279" available="true">
+        <name>Магуро татаки</name>
+        <url>https://bushido66.ru/catalog/zakuski/279/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d8a/450_450_0/q4f4v13vwl0uo7hfoqee88e8hd15au76.jpg</picture>
+      </offer>
+      <offer id="454" available="true">
+        <name>Овощное ассорти</name>
+        <url>https://bushido66.ru/catalog/zakuski/454/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b57/450_450_0/bdqz2cz1ee0urdl1ptu0vcg90itlo5vg.jpeg</picture>
+      </offer>
+      <offer id="24763" available="true">
+        <name>Онигири с копченой курицей и томатом</name>
+        <url>https://bushido66.ru/catalog/zakuski/24763/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/532/450_450_0/20ca6tg3jxwfaers4jseigl592f0p6hk.jpg</picture>
+      </offer>
+      <offer id="225" available="true">
+        <name>Рисовые шарики острые</name>
+        <url>https://bushido66.ru/catalog/zakuski/225/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2ad/450_450_0/jo6g6adovwqjchgpycuadatiio15ybji.jpg</picture>
+      </offer>
+      <offer id="403" available="true">
+        <name>Рисовые шарики с курицей</name>
+        <url>https://bushido66.ru/catalog/zakuski/403/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/8e0/450_450_0/skoklqauw5j2ieutac1fj8gtdr45zmsk.jpg</picture>
+      </offer>
+      <offer id="433" available="true">
+        <name>Тар-тар из лосося</name>
+        <url>https://bushido66.ru/catalog/zakuski/433/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/74e/450_450_0/e8ce0rlshk715i4ot68th2u3u1x80dmk.jpg</picture>
+      </offer>
+      <offer id="458" available="true">
+        <name>Тар-тар из тунца</name>
+        <url>https://bushido66.ru/catalog/zakuski/458/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/424/450_450_0/9u13hqittric5kzxmxhwh3hpwscuyryo.jpg</picture>
+      </offer>
+      <offer id="3385" available="true">
+        <name>Фруктовое ассорти</name>
+        <url>https://bushido66.ru/catalog/zakuski/3385/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/4b0/450_450_0/msz0wlca7v4ixnflaob1n96bxf9wkob1.jpeg</picture>
+      </offer>
+      <offer id="447" available="true">
+        <name>Хачапури по-аджарски</name>
+        <url>https://bushido66.ru/catalog/zakuski/447/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>13</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e20/450_450_0/gi7un66ssnbsxx2rkesx7nhvnr7mzjnv.jpg</picture>
+      </offer>
+      <offer id="233" available="true">
+        <name>Айта гютан</name>
+        <url>https://bushido66.ru/catalog/salads/233/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d83/450_450_0/dprp8sxlkxrtfreu47483law3n22wdsl.jpg</picture>
+      </offer>
+      <offer id="491" available="true">
+        <name>Греческий</name>
+        <url>https://bushido66.ru/catalog/salads/491/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/0fc/450_450_0/x11gt2s76yxh1got324noe7dolvubd9g.jpg</picture>
+      </offer>
+      <offer id="483" available="true">
+        <name>Гютан сарада</name>
+        <url>https://bushido66.ru/catalog/salads/483/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c1e/450_450_0/p70vsa3om04ws8agurrahe1kl3474rx4.jpg</picture>
+      </offer>
+      <offer id="3388" available="true">
+        <name>Ика караи сарада</name>
+        <url>https://bushido66.ru/catalog/salads/3388/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/088/450_450_0/9xred05ykpnxevdoxx4h5vv1fqz0tdo2.jpg</picture>
+      </offer>
+      <offer id="254" available="true">
+        <name>Кунсэй сарада</name>
+        <url>https://bushido66.ru/catalog/salads/254/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e42/450_450_0/pzv61926zqkz1x8s6itkuqrwayakv1hl.jpg</picture>
+      </offer>
+      <offer id="281" available="true">
+        <name>Салат Эби авокадо</name>
+        <url>https://bushido66.ru/catalog/salads/281/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a30/450_450_0/pwu9o4f12i0mntxpk1h9v9s16yi4di0d.jpg</picture>
+      </offer>
+      <offer id="3387" available="true">
+        <name>Салат легкий с апельсином</name>
+        <url>https://bushido66.ru/catalog/salads/3387/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2b9/450_450_0/61ix9xzbw3tk2le4z1t923tgvj3ij5ig.jpg</picture>
+      </offer>
+      <offer id="22902" available="true">
+        <name>Салат с беби осьминогом</name>
+        <url>https://bushido66.ru/catalog/salads/22902/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/507/450_450_0/13flyhjbific3kh1ok614f4t2zz5er2m.jpg</picture>
+      </offer>
+      <offer id="22903" available="true">
+        <name>Салат с ростбифом</name>
+        <url>https://bushido66.ru/catalog/salads/22903/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a7e/450_450_0/2wvq5n0ixqr9hpu6yjoalujvtzt0tdjv.png</picture>
+      </offer>
+      <offer id="3391" available="true">
+        <name>Теплый овощной салат</name>
+        <url>https://bushido66.ru/catalog/salads/3391/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/95d/450_450_0/l2v1nzoqo3623pwmj7bgujoeba3vqtsh.jpeg</picture>
+      </offer>
+      <offer id="3390" available="true">
+        <name>Теплый салат с креветками</name>
+        <url>https://bushido66.ru/catalog/salads/3390/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/247/450_450_0/z5479lvy94ut001a52gv74c87trxk74i.jpg</picture>
+      </offer>
+      <offer id="3389" available="true">
+        <name>Теплый салат с курицей и овощами</name>
+        <url>https://bushido66.ru/catalog/salads/3389/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/72f/450_450_0/j6xvwa9e1qq32s7l1lz6m95h61t12x2u.jpg</picture>
+      </offer>
+      <offer id="230" available="true">
+        <name>Хияши вакамэ</name>
+        <url>https://bushido66.ru/catalog/salads/230/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e07/450_450_0/gb5wey8m7bwi2e0e4u9v1kcr0k5eodw1.jpg</picture>
+      </offer>
+      <offer id="282" available="true">
+        <name>Цезарь с креветками</name>
+        <url>https://bushido66.ru/catalog/salads/282/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/1a6/450_450_0/koehlujw1il0vojfkjq2gnzhmy0e506s.jpg</picture>
+      </offer>
+      <offer id="250" available="true">
+        <name>Цезарь с курицей</name>
+        <url>https://bushido66.ru/catalog/salads/250/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/1a6/450_450_0/koehlujw1il0vojfkjq2gnzhmy0e506s.jpg</picture>
+      </offer>
+      <offer id="484" available="true">
+        <name>Цезарь с лососем</name>
+        <url>https://bushido66.ru/catalog/salads/484/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>14</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/1a6/450_450_0/koehlujw1il0vojfkjq2gnzhmy0e506s.jpg</picture>
+      </offer>
+      <offer id="3394" available="true">
+        <name>Бефстроганов по-японски</name>
+        <url>https://bushido66.ru/catalog/main-courses/3394/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b8d/450_450_0/3q7pjwrbh4oswlrw287tzz47bous72ps.jpg</picture>
+      </offer>
+      <offer id="22908" available="true">
+        <name>Бифштекс с малиновым соусом</name>
+        <url>https://bushido66.ru/catalog/main-courses/22908/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/be6/450_450_0/3tqcuvxvn4n2rs197fswqbq60e8go8d4.jpg</picture>
+      </offer>
+      <offer id="245" available="true">
+        <name>Бута тяхан</name>
+        <url>https://bushido66.ru/catalog/main-courses/245/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d64/450_450_0/uxb41xhbx5wzkggefp037qbg2nznlcuw.jpg</picture>
+      </offer>
+      <offer id="3395" available="true">
+        <name>Говяжья вырезка в пряном маринаде</name>
+        <url>https://bushido66.ru/catalog/main-courses/3395/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5a3/450_450_0/xr4k7ut15kg2pdy4yml2buayc9e8wkhh.jpg</picture>
+      </offer>
+      <offer id="237" available="true">
+        <name>Гюнику ясай</name>
+        <url>https://bushido66.ru/catalog/main-courses/237/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/56e/450_450_0/krk1ploc0znx5i3oqg0ieyhosd1zk0sf.jpg</picture>
+      </offer>
+      <offer id="220" available="true">
+        <name>Дорадо запеченное с картофелем и томатами</name>
+        <url>https://bushido66.ru/catalog/main-courses/220/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ee3/450_450_0/y4f5ms6sysqt2zaqb41uzome85tuwu8u.jpg</picture>
+      </offer>
+      <offer id="23411" available="true">
+        <name>Запеченные мидии с красной икрой</name>
+        <url>https://bushido66.ru/catalog/main-courses/23411/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/bitrix/templates/food_s1/images/picture.missing.png</picture>
+      </offer>
+      <offer id="22910" available="true">
+        <name>Креветки в тесте катаифи</name>
+        <url>https://bushido66.ru/catalog/main-courses/22910/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/98e/450_450_0/ls6oagkho0ppqksrmq0s238h56lzq3b5.jpg</picture>
+      </offer>
+      <offer id="3398" available="true">
+        <name>Мидии в икорно-сливочном соусе</name>
+        <url>https://bushido66.ru/catalog/main-courses/3398/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/59e/450_450_0/28ef70tk418bgw2vv1g2cfuor9go1uu1.jpg</picture>
+      </offer>
+      <offer id="3397" available="true">
+        <name>Мидии в соусе Том Ям</name>
+        <url>https://bushido66.ru/catalog/main-courses/3397/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/95e/450_450_0/51h5yvw0q10d5fjs4xyxq15omlr97zma.jpg</picture>
+      </offer>
+      <offer id="499" available="true">
+        <name>Паста Карбонара</name>
+        <url>https://bushido66.ru/catalog/main-courses/499/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f3d/450_450_0/hoy14ktbn7ovk99v4t7tf6q0sclpkhfe.jpg</picture>
+      </offer>
+      <offer id="418" available="true">
+        <name>Паста с курицей и грибами</name>
+        <url>https://bushido66.ru/catalog/main-courses/418/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b50/450_450_0/29zhqpxjqnkf30yn0kb2pug2r8tb3lcs.jpg</picture>
+      </offer>
+      <offer id="479" available="true">
+        <name>Паста с лососем</name>
+        <url>https://bushido66.ru/catalog/main-courses/479/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ea6/450_450_0/c2np9lgdjpshfrcqw933y83cv5xxkz6z.jpg</picture>
+      </offer>
+      <offer id="22911" available="true">
+        <name>Паста спагетти с морепродуктами</name>
+        <url>https://bushido66.ru/catalog/main-courses/22911/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c12/450_450_0/sb5ruf524cse4nlust0zkzqecol1bus2.jpg</picture>
+      </offer>
+      <offer id="3399" available="true">
+        <name>Паста фетучини с морепродуктами</name>
+        <url>https://bushido66.ru/catalog/main-courses/3399/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c3b/450_450_0/fda5avddavfuavdcia8tsmi9xewnvt4o.jpg</picture>
+      </offer>
+      <offer id="219" available="true">
+        <name>Перепела запеченные с молодым картофелем</name>
+        <url>https://bushido66.ru/catalog/main-courses/219/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/73d/450_450_0/316nslgz5mz1n2qaj23djrco67osgji0.jpg</picture>
+      </offer>
+      <offer id="217" available="true">
+        <name>Свиная корейка</name>
+        <url>https://bushido66.ru/catalog/main-courses/217/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/823/450_450_0/xarqw9y8s0eg7wpldzlczooy4ms4xkwf.jpg</picture>
+      </offer>
+      <offer id="274" available="true">
+        <name>Свинина в соусе Терияки</name>
+        <url>https://bushido66.ru/catalog/main-courses/274/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/511/450_450_0/rqrdywsopll25iipv7fgcuod65bjk7pl.jpg</picture>
+      </offer>
+      <offer id="22907" available="true">
+        <name>Свиные ребра с битым огурцом</name>
+        <url>https://bushido66.ru/catalog/main-courses/22907/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/7ed/450_450_0/t1dw9rix1chrlanr0g33t9oh5o0aklis.jpg</picture>
+      </offer>
+      <offer id="22909" available="true">
+        <name>Стейк из лосося с авокадо</name>
+        <url>https://bushido66.ru/catalog/main-courses/22909/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/bitrix/templates/food_s1/images/picture.missing.png</picture>
+      </offer>
+      <offer id="397" available="true">
+        <name>Стейк из лосося с цукини</name>
+        <url>https://bushido66.ru/catalog/main-courses/397/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/133/450_450_0/6ryzpmjv4w44g8h2s9t1var81a5vuq0v.jpg</picture>
+      </offer>
+      <offer id="23410" available="true">
+        <name>Судак с креветочным соусом и овощами</name>
+        <url>https://bushido66.ru/catalog/main-courses/23410/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d87/450_450_0/auxnwhh5139qhoyfloxbcg13rbemmei3.jpg</picture>
+      </offer>
+      <offer id="494" available="true">
+        <name>Сякэ кабото</name>
+        <url>https://bushido66.ru/catalog/main-courses/494/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c34/450_450_0/9hbtacgcm910sqfvo2cln3ogq5c44tse.jpg</picture>
+      </offer>
+      <offer id="287" available="true">
+        <name>Тори кохаку</name>
+        <url>https://bushido66.ru/catalog/main-courses/287/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/6c7/450_450_0/b3d2euzey64ul63s1bjtwn7ldzgw4ji0.jpg</picture>
+      </offer>
+      <offer id="242" available="true">
+        <name>Тяхан сифудо</name>
+        <url>https://bushido66.ru/catalog/main-courses/242/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f95/450_450_0/wucoe0ohg9lm6tofu74e2vmjll9c9h85.jpg</picture>
+      </offer>
+      <offer id="23409" available="true">
+        <name>Утка по-пекински</name>
+        <url>https://bushido66.ru/catalog/main-courses/23409/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f24/450_450_0/v2z72zwwxgqpi20hghwoi5wlfmqh2t9b.jpg</picture>
+      </offer>
+      <offer id="3396" available="true">
+        <name>Филе миньон в перечном соусе</name>
+        <url>https://bushido66.ru/catalog/main-courses/3396/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/78c/450_450_0/h6tv9l9iexb6potjzd8xvmm20llv16bn.jpg</picture>
+      </offer>
+      <offer id="3392" available="true">
+        <name>Цыпленок по китайски</name>
+        <url>https://bushido66.ru/catalog/main-courses/3392/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/595/450_450_0/26a9a7hkysptupbgav1sb17r9a993yr3.jpg</picture>
+      </offer>
+      <offer id="284" available="true">
+        <name>Эби темпура</name>
+        <url>https://bushido66.ru/catalog/main-courses/284/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/04f/450_450_0/syqaune816f00zpcpafbyi3q7jmcpfzm.jpg</picture>
+      </offer>
+      <offer id="235" available="true">
+        <name>Яки соба</name>
+        <url>https://bushido66.ru/catalog/main-courses/235/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>15</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/d8a/450_450_0/mkdszc320mupg7789ujr2h19qe5z3la6.jpg</picture>
+      </offer>
+      <offer id="288" available="true">
+        <name>Шашлычек из говядины</name>
+        <url>https://bushido66.ru/catalog/shashlychki/288/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/ee1/450_450_0/d8ah1cdv7w0vja3dkifoo3umtxuahjyf.jpg</picture>
+      </offer>
+      <offer id="293" available="true">
+        <name>Шашлычек из креветки</name>
+        <url>https://bushido66.ru/catalog/shashlychki/293/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/169/450_450_0/twgq2xu2izkk4qkrb1ro7ff2642s8jmm.jpg</picture>
+      </offer>
+      <offer id="289" available="true">
+        <name>Шашлычек из кукурузы</name>
+        <url>https://bushido66.ru/catalog/shashlychki/289/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/78b/450_450_0/at3h3by3gfqhozyc5d08pv1oche0urfq.jpg</picture>
+      </offer>
+      <offer id="290" available="true">
+        <name>Шашлычек из курицы</name>
+        <url>https://bushido66.ru/catalog/shashlychki/290/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/64f/450_450_0/at943jazw5j1m12ktmfx97s9d7xljr45.jpg</picture>
+      </offer>
+      <offer id="291" available="true">
+        <name>Шашлычек из лосося</name>
+        <url>https://bushido66.ru/catalog/shashlychki/291/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/cb0/450_450_0/f8wzyhxvx9tx96gcrhxnd6qjbx2749bx.jpg</picture>
+      </offer>
+      <offer id="292" available="true">
+        <name>Шашлычек из свинины</name>
+        <url>https://bushido66.ru/catalog/shashlychki/292/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>16</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/239/450_450_0/26wv7hclfrjm6j3wjnk2j5sob2pit1r7.jpg</picture>
+      </offer>
+      <offer id="3400" available="true">
+        <name>Батат фри</name>
+        <url>https://bushido66.ru/catalog/garniry/3400/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b3d/450_450_0/8jiz9pclm2o4cqh2lakkv58qefgk78a9.jpg</picture>
+      </offer>
+      <offer id="229" available="true">
+        <name>Весенние овощи</name>
+        <url>https://bushido66.ru/catalog/garniry/229/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/703/450_450_0/ncne0ni1jcue5kemhw1mkcobm3qe39hk.jpg</picture>
+      </offer>
+      <offer id="267" available="true">
+        <name>Гохан</name>
+        <url>https://bushido66.ru/catalog/garniry/267/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bdf/450_450_0/xy97x72ynbk06ygbt3gzxc8xzp46h43q.jpg</picture>
+      </offer>
+      <offer id="228" available="true">
+        <name>Запеченые овощи</name>
+        <url>https://bushido66.ru/catalog/garniry/228/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b17/450_450_0/fsie042dxrjax8e9ltipqjf6i2v3l9w9.jpg</picture>
+      </offer>
+      <offer id="465" available="true">
+        <name>Картофель с грибами в сливочном соусе</name>
+        <url>https://bushido66.ru/catalog/garniry/465/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/464/450_450_0/fghy4w239ssycx3v20faann93e0boijw.jpg</picture>
+      </offer>
+      <offer id="269" available="true">
+        <name>Картофель фри</name>
+        <url>https://bushido66.ru/catalog/garniry/269/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a61/450_450_0/sipnnhiuyu55uamcd0e4w8xo2lia0mf9.jpg</picture>
+      </offer>
+      <offer id="425" available="true">
+        <name>Соба</name>
+        <url>https://bushido66.ru/catalog/garniry/425/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fa5/450_450_0/0hn9qjfwkm79g2jimce9ajv8p2tkzfmj.jpg</picture>
+      </offer>
+      <offer id="270" available="true">
+        <name>Спаржа в сливочном соусе</name>
+        <url>https://bushido66.ru/catalog/garniry/270/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5c8/450_450_0/1g6vibzyz4p3wv32x316gyn0e6v872wk.jpg</picture>
+      </offer>
+      <offer id="272" available="true">
+        <name>Удон</name>
+        <url>https://bushido66.ru/catalog/garniry/272/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>17</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/df2/450_450_0/pdumrztwz3r8sq1izz850agvwatd0vu6.jpg</picture>
+      </offer>
+      <offer id="227" available="true">
+        <name>Соус Горчичный</name>
+        <url>https://bushido66.ru/catalog/sauces/227/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fb8/450_450_0/nyn8b2abkb0oepw7m333eseopjl23707.jpg</picture>
+      </offer>
+      <offer id="408" available="true">
+        <name>Соус Ореховый</name>
+        <url>https://bushido66.ru/catalog/sauces/408/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/7ba/450_450_0/vngodzrvp8k8h5txeu8k0fi8qstl44m3.jpg</picture>
+      </offer>
+      <offer id="2724" available="true">
+        <name>Соус Соевый</name>
+        <url>https://bushido66.ru/catalog/sauces/2724/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/337/450_450_0/07g3h8tktn8pygba3bewhik2wvo8mya2.webp</picture>
+      </offer>
+      <offer id="409" available="true">
+        <name>Соус Спайси</name>
+        <url>https://bushido66.ru/catalog/sauces/409/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e5a/450_450_0/tmeqabtgms7mbg154kg7wd7f87vaktvk.jpg</picture>
+      </offer>
+      <offer id="2728" available="true">
+        <name>Соус Сырный</name>
+        <url>https://bushido66.ru/catalog/sauces/2728/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a1f/450_450_0/conqzmr09f7sz4csri68x4tsz6ln0g36.png</picture>
+      </offer>
+      <offer id="410" available="true">
+        <name>Соус Терияки</name>
+        <url>https://bushido66.ru/catalog/sauces/410/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/687/450_450_0/znsz3wdib2vafhq0avg185gtyh5rr27x.jpg</picture>
+      </offer>
+      <offer id="411" available="true">
+        <name>Соус Томатный</name>
+        <url>https://bushido66.ru/catalog/sauces/411/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/bd9/450_450_0/0frgwz1e1k3u60tuc51j33mzq3424sp4.jpg</picture>
+      </offer>
+      <offer id="412" available="true">
+        <name>Соус Тонкацу</name>
+        <url>https://bushido66.ru/catalog/sauces/412/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/30b/450_450_0/h9a38tw7fjc14jidsln4wcyf4f2sd6k5.jpg</picture>
+      </offer>
+      <offer id="2727" available="true">
+        <name>Соус свит чили</name>
+        <url>https://bushido66.ru/catalog/sauces/2727/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>18</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/02b/450_450_0/t125bn3jro40jvgojixto0mzu0r8f8gv.jpg</picture>
+      </offer>
+      <offer id="435" available="true">
+        <name>Брусничный кремовый пирог с белым шоколадом</name>
+        <url>https://bushido66.ru/catalog/dessert/435/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/992/450_450_0/fxfx5tcd40dkgbk9q0gcbg2lwhb6zmck.jpg</picture>
+      </offer>
+      <offer id="3404" available="true">
+        <name>Гринч ролл</name>
+        <url>https://bushido66.ru/catalog/dessert/3404/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f5d/450_450_0/z5iumfbjwowlx4v8zzzjt104mifnsfkf.jpg</picture>
+      </offer>
+      <offer id="29252" available="true">
+        <name>Печенье Кукис Шоколадное с арахисом соленой карамелью</name>
+        <url>https://bushido66.ru/catalog/dessert/29252/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e3d/450_450_0/alqe8a5mmqegln8176uvos7vq2ljuawz.jpg</picture>
+      </offer>
+      <offer id="29250" available="true">
+        <name>Печенье Кукис молочный темный шоколад</name>
+        <url>https://bushido66.ru/catalog/dessert/29250/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5b9/450_450_0/f99hi0i1y4ww4r2fbn0c7hzw9k40udo3.jpg</picture>
+      </offer>
+      <offer id="29249" available="true">
+        <name>Печенье Кукис шоколадное молочный белый шоколад</name>
+        <url>https://bushido66.ru/catalog/dessert/29249/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5f7/450_450_0/ilixy72gih0zph71dwxf4hw4g7u7w510.jpg</picture>
+      </offer>
+      <offer id="325" available="true">
+        <name>Ролл Манила</name>
+        <url>https://bushido66.ru/catalog/dessert/325/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/172/450_450_0/cld67izb9zdi2c1qfbvvvmvkwl8teeea.jpg</picture>
+      </offer>
+      <offer id="327" available="true">
+        <name>Ролл Фруктовый</name>
+        <url>https://bushido66.ru/catalog/dessert/327/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/4de/450_450_0/y7q7i2i8lewo1g9475097zpr04htbu1u.jpg</picture>
+      </offer>
+      <offer id="398" available="true">
+        <name>Торт Медовый</name>
+        <url>https://bushido66.ru/catalog/dessert/398/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b6c/450_450_0/ayc6yr9fl1ji1799ym49tp5yior8cctj.jpg</picture>
+      </offer>
+      <offer id="221" available="true">
+        <name>Чизкейк Клубничный</name>
+        <url>https://bushido66.ru/catalog/dessert/221/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/3b8/450_450_0/5ninkqy4683nl3zmbdcy7fqu36yd6zni.jpg</picture>
+      </offer>
+      <offer id="222" available="true">
+        <name>Чизкейк Нью-Йорк</name>
+        <url>https://bushido66.ru/catalog/dessert/222/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/a4a/450_450_0/3klxc5vzp6ub0vrl1ko6zzint80zp9fj.jpg</picture>
+      </offer>
+      <offer id="223" available="true">
+        <name>Чизкейк Шоколадный</name>
+        <url>https://bushido66.ru/catalog/dessert/223/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e0c/450_450_0/g143icb862x0ebrihdap1inb1oik3v8u.jpg</picture>
+      </offer>
+      <offer id="518" available="true">
+        <name>Эклер Дубайский</name>
+        <url>https://bushido66.ru/catalog/dessert/518/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/f9b/450_450_0/729fj9c5593k89sx7dvbqjinmdzj4wpf.jpg</picture>
+      </offer>
+      <offer id="24761" available="true">
+        <name>Эклер Манго Маракуйа</name>
+        <url>https://bushido66.ru/catalog/dessert/24761/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/iblock/0d2/mj2mhtp7w6shwwq5etqfr00al913yh6x.jpg</picture>
+      </offer>
+      <offer id="24752" available="true">
+        <name>Эклер Наполеон</name>
+        <url>https://bushido66.ru/catalog/dessert/24752/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/6bd/450_450_0/nfg0t3pe1swyceqlk73a13dkrb8sl7le.png</picture>
+      </offer>
+      <offer id="24754" available="true">
+        <name>Эклер Сникерс</name>
+        <url>https://bushido66.ru/catalog/dessert/24754/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/9bf/450_450_0/i1u098dqim3ihr1g43t8y26mam3amdm1.jpg</picture>
+      </offer>
+      <offer id="24753" available="true">
+        <name>Эклер Тирамису</name>
+        <url>https://bushido66.ru/catalog/dessert/24753/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>19</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b44/450_450_0/q8ykh117du510f4p5umypf78142lfp9q.jpg</picture>
+      </offer>
+      <offer id="482" available="true">
+        <name>Вода Бон Аква газированная</name>
+        <url>https://bushido66.ru/catalog/beverages/482/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/371/450_450_0/atgiijqlc01jgavemm9h9rhk2ksnhoki.jpg</picture>
+      </offer>
+      <offer id="496" available="true">
+        <name>Вода Бон Аква негазированная</name>
+        <url>https://bushido66.ru/catalog/beverages/496/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/265/450_450_0/im96ljsro016hj6trhk7qt5arbtxqebv.jpg</picture>
+      </offer>
+      <offer id="480" available="true">
+        <name>Газированная вода Добрый Кола</name>
+        <url>https://bushido66.ru/catalog/beverages/480/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5e8/450_450_0/j48ucp1ume4vdogpmfa6kpcpa1khr8t1.jpg</picture>
+      </offer>
+      <offer id="481" available="true">
+        <name>Газированная вода Добрый Лимон</name>
+        <url>https://bushido66.ru/catalog/beverages/481/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/9a8/450_450_0/jhuhg7iz1dhmki83jisikz8z7v9pgxn8.jpg</picture>
+      </offer>
+      <offer id="468" available="true">
+        <name>Минеральная вода Боржоми</name>
+        <url>https://bushido66.ru/catalog/beverages/468/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/606/450_450_0/6qzdb2ozk9kvn7os16gtxiwbzg6zwmy3.jpeg</picture>
+      </offer>
+      <offer id="516" available="true">
+        <name>Морс клюквенный</name>
+        <url>https://bushido66.ru/catalog/beverages/516/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2e7/450_450_0/1ofqhob2lo9rr14k4lphyo3bsfxe0jm5.jpg</picture>
+      </offer>
+      <offer id="469" available="true">
+        <name>Сок ананасовый</name>
+        <url>https://bushido66.ru/catalog/beverages/469/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5de/450_450_0/4xc08nnt2k4mmo0rzypyqu3tz8uxuovf.jpg</picture>
+      </offer>
+      <offer id="470" available="true">
+        <name>Сок апельсиновый</name>
+        <url>https://bushido66.ru/catalog/beverages/470/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/e8d/450_450_0/veuz1emmhivtcoarfsolbx86qdzcml8c.jpg</picture>
+      </offer>
+      <offer id="471" available="true">
+        <name>Сок вишневый</name>
+        <url>https://bushido66.ru/catalog/beverages/471/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/b5b/450_450_0/np7a3a3m6ajnn206rrevuonafph5rdf2.jpg</picture>
+      </offer>
+      <offer id="472" available="true">
+        <name>Сок грейпфрутовый</name>
+        <url>https://bushido66.ru/catalog/beverages/472/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/2bb/450_450_0/la02igi3a9h6p8j26tvop6hmu1cn9rsc.jpg</picture>
+      </offer>
+      <offer id="473" available="true">
+        <name>Сок мультифруктовый</name>
+        <url>https://bushido66.ru/catalog/beverages/473/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/252/450_450_0/g9fxlfta4hskjwworg05c26pwe835xmh.jpg</picture>
+      </offer>
+      <offer id="474" available="true">
+        <name>Сок персиковый</name>
+        <url>https://bushido66.ru/catalog/beverages/474/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fe5/450_450_0/b3xju5wsxm99nz4tf2ztx8r7srnot1wq.jpg</picture>
+      </offer>
+      <offer id="475" available="true">
+        <name>Сок томатный</name>
+        <url>https://bushido66.ru/catalog/beverages/475/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c11/450_450_0/7e0xvk7mqxb126c3epqv4vmzk83ygzky.jpg</picture>
+      </offer>
+      <offer id="476" available="true">
+        <name>Сок яблочный</name>
+        <url>https://bushido66.ru/catalog/beverages/476/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/c43/450_450_0/19jj2n6fbqytnqj30h6t0w9940nbaows.jpg</picture>
+      </offer>
+      <offer id="477" available="true">
+        <name>Энергетический напиток Адреналин раш</name>
+        <url>https://bushido66.ru/catalog/beverages/477/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/5c8/450_450_0/gcal73afi0u9nmbptmkla2d0enb5y44d.jpg</picture>
+      </offer>
+      <offer id="478" available="true">
+        <name>Энергетический напиток Берн</name>
+        <url>https://bushido66.ru/catalog/beverages/478/</url>
+        <price>50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>20</categoryId>
+        <picture>https://bushido66.ru/upload/resize_cache/iblock/fff/450_450_0/2sfsi1tc9slajrkgfjv5z820dq4jzz1y.jpg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
